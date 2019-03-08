@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="ProjectModuleManager">
+        <modules>
+            <module fileurl="file://$PROJECT_DIR$/CateringIgnore/CateringIgnore.iml" filepath="$PROJECT_DIR$/CateringIgnore/CateringIgnore.iml" />
+            <module fileurl="file://$PROJECT_DIR$/ChurchIdentity/ChurchIdentity.iml" filepath="$PROJECT_DIR$/ChurchIdentity/ChurchIdentity.iml" />
+            <module fileurl="file://$PROJECT_DIR$/Assignment3Question2.iml" filepath="$PROJECT_DIR$/Assignment3Question2.iml" />
+            <module fileurl="file://$PROJECT_DIR$/VehicleEquality/VehicleEquality.iml" filepath="$PROJECT_DIR$/VehicleEquality/VehicleEquality.iml" />
+            <module fileurl="file://$PROJECT_DIR$/VenueTimeout/VenueTimeout.iml" filepath="$PROJECT_DIR$/VenueTimeout/VenueTimeout.iml" />
+        </modules>
+    </component>
+</project>
